@@ -5,6 +5,9 @@
 
 /* To Do: Make the character images Cards with Bootstrap and stylize to look like playing cards with border, name on top and hitpoints on bottom.*/
 
+
+/* Scrolling works. To Do: When scrolling to top or bottom make displayed bit of white be black instead. */
+
 html {
     background: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/May-the-4th-796x415.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
