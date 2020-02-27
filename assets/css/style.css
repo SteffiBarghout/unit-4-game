@@ -1,3 +1,10 @@
+/* To Do: Add Health progress bars to characters and HP counters. <div class="progress">
+  <div class="progress-bar bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+</div> and Bootstrap*/
+
+
+/* To Do: Make the character images Cards with Bootstrap and stylize to look like playing cards with border, name on top and hitpoints on bottom.*/
+
 html {
     background: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/May-the-4th-796x415.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
